@@ -1,4 +1,2 @@
-- Hi, I’m @Mert-Kilic
-- I’m interested in Embedded Systems
-- I’m currently learning Software Development and Hardware Design
+- I’m currently working on Software Development and Hardware Design
 - Mail: mert96kilic@gmailc.com
